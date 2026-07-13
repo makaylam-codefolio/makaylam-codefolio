@@ -1,74 +1,181 @@
-# Hello, I'm Makayla McKibben
+# Hi, I'm Makayla McKibben 👋
 
-🎓 Master’s in Data Science | B.A. in Chemistry/Biochemistry  
-💡 Data Scientist focused on healthcare analytics, machine learning, and business intelligence  
+## Generative AI | Applied AI | Decision Support
 
----
+I build AI-powered systems that transform complex information into actionable decisions through intelligent automation, machine learning, and workflow design.
 
-## 🔍 About Me
-
-I build data science projects that connect **healthcare, machine learning, generative AI and real-world decision-making**.
-
-My work focuses on:
-- Healthcare analytics and mental health data
-- Machine learning and deep learning workflows
-- Statistical analysis and data-driven insights
-- Business analytics and profit-oriented decision support
-
-I’m particularly interested in applying data science to:
-- Healthcare systems and outcomes
-- AI/ML-driven insights
-- Large-scale data analysis and cloud workflows
-- Business optimization and operational efficiency
+My background combines a **Master of Science in Data Science** with professional experience in scientific research, laboratory systems, and process optimization. Today, my work focuses on designing practical AI applications that improve workflows, support better decisions, and solve ambiguous real-world problems.
 
 ---
 
-## 🚀 Featured Projects
+# What I Build
 
-### 🧠 Schizophrenia Medication Analysis
-Healthcare-focused analysis combining statistical methods and sentiment analysis to explore treatment patterns and patient experience.  
-🔗 [View Repository](https://github.com/makaylam-codefolio/schizophrenia-medication-analysis)
+My projects center around four themes:
 
----
+### 🤖 Applied AI & Intelligent Assistants
+- Domain-specific AI assistants
+- Prompt engineering
+- Supervised fine-tuning
+- AI workflow automation
+- Structured AI outputs
 
-### ⚡ EEG Schizophrenia Classification
-Machine learning and deep learning workflows applied to EEG data, with emphasis on model evaluation and data integrity.  
-🔗 [View Repository](https://github.com/makaylam-codefolio/eeg-schizophrenia-classification)
+### 📊 Decision Support Systems
+- Predictive analytics
+- Executive decision support
+- Business intelligence
+- Process optimization
 
----
+### 🏥 Healthcare AI
+- Clinical analytics
+- EEG machine learning
+- Healthcare coding analysis
+- Mental health decision support
 
-### ⚖️ Healthcare Coding Bias Assessment
-Statistical analysis of healthcare coding patterns using synthetic data to evaluate potential bias with careful interpretation.  
-🔗 [View Repository](https://github.com/makaylam-codefolio/healthcare-coding-bias-assessment)
-
----
-
-### 🚗 Dealership Inventory Turnover Analysis
-Business analytics project analyzing inventory turnover and pricing dynamics to support operational and profit-focused decision-making.  
-🔗 [View Repository](https://github.com/makaylam-codefolio/dealership-inventory-turnover-analysis)
-
----
-
-## 🛠️ Skills & Tools
-
-**Languages & Libraries:**  
-Python, pandas, NumPy, scikit-learn, TensorFlow, PyTorch  
-
-**Data & Analytics:**  
-Statistical analysis, hypothesis testing, machine learning, data visualization  
-
-**Tools & Platforms:**  
-GitHub, Jupyter Notebooks, SQL  
-
-**Domains:**  
-Healthcare analytics, mental health data, business analytics, decision support  
+### ⚙️ End-to-End Software Development
+- Python applications
+- Streamlit interfaces
+- Cloudflare deployments
+- SQL & SQLite
+- Data engineering pipelines
 
 ---
 
-## 📫 Contact
+# Featured Projects
 
-- Email: (makayla.m7@gmail.com)
+## 🤖 Velma — Domain-Specific AI Assistant & Workflow Platform *(Flagship Project)*
+
+An end-to-end Applied AI platform combining supervised fine-tuning, prompt engineering, structured output generation, and interactive workflows to support complex knowledge management and decision support.
+
+**Highlights**
+- Automated training dataset generation
+- Supervised fine-tuning workflows
+- Interactive Streamlit application
+- Structured Markdown & JSON outputs
+- Extensible architecture for Retrieval-Augmented Generation (RAG)
+
+**Technologies**
+- Python
+- OpenAI API
+- Streamlit
+- Supervised Fine-Tuning
+- Prompt Engineering
+
+> **Project Status:** Active development. Public documentation and architecture are available while the implementation remains private during ongoing refinement.
 
 ---
 
-⭐ Check out my repositories below for full project details and code.
+## 🌱 Wellness Decision Support Platform *(In Development)*
+
+A secure cloud-hosted analytics and decision-support platform integrating Cloudflare infrastructure, relational databases, and Python analytical workflows to support longitudinal tracking, trend analysis, and AI-assisted insights.
+
+**Highlights**
+- Secure cloud architecture
+- Longitudinal trend analysis
+- Decision-support workflows
+- AI-assisted reporting roadmap
+
+> **Project Status:** Active development. Documentation will be published while the implementation remains private during ongoing refinement.
+
+---
+
+## 🧠 EEG Schizophrenia Classification
+
+Machine learning and deep learning workflows applied to EEG data with emphasis on subject-aware validation, model evaluation, and responsible healthcare AI.
+
+🔗 Repository: https://github.com/makaylam-codefolio/eeg-schizophrenia-classification
+
+---
+
+## ⚖️ Healthcare Coding Bias Assessment
+
+Statistical analysis of healthcare coding patterns using synthetic data to investigate potential bias while emphasizing responsible interpretation and decision support.
+
+🔗 Repository: https://github.com/makaylam-codefolio/healthcare-coding-bias-assessment
+
+---
+
+## 🚗 Dealership Decision Intelligence
+
+Business analytics project translating operational dealership data into executive recommendations for inventory optimization and strategic decision-making.
+
+🔗 Repository: https://github.com/makaylam-codefolio/dealership-inventory-turnover-analysis
+
+---
+
+## 💊 Schizophrenia Medication Analysis
+
+Healthcare-focused statistical analysis combining clinical research, sentiment analysis, and data visualization to explore treatment patterns and patient experiences.
+
+🔗 Repository: https://github.com/makaylam-codefolio/schizophrenia-medication-analysis
+
+---
+
+# Technical Stack
+
+## Applied AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Supervised Fine-Tuning
+- OpenAI API
+- AI Workflow Design
+- Structured Outputs
+- Model Evaluation
+
+## Software Development
+- Python
+- SQL
+- SQLite
+- Streamlit
+- Cloudflare Pages
+- Cloudflare Workers
+- Cloudflare D1
+- Git
+- REST APIs
+- JSON
+
+## Machine Learning
+- TensorFlow
+- PyTorch
+- scikit-learn
+- Statistical Modeling
+- Deep Learning
+- Feature Engineering
+
+---
+
+# Current Focus
+
+I'm currently exploring:
+
+- Applied Generative AI
+- AI copilots and intelligent assistants
+- Workflow automation
+- Decision-support systems
+- Healthcare AI
+- Product-oriented AI development
+
+---
+
+# Repository Philosophy
+
+Several of my flagship projects are being developed as potential commercial products.
+
+Rather than publishing unfinished implementations, I document the engineering process through architecture diagrams, design decisions, technical write-ups, and project roadmaps while the software continues active development.
+
+I'm always happy to discuss:
+- System architecture
+- Engineering tradeoffs
+- AI workflow design
+- Product decisions
+- Lessons learned
+- Future roadmap
+
+---
+
+# Let's Connect
+
+📧 **Makayla.M7@gmail.com**
+
+---
+
+> *"The best AI systems don't replace human decision-making—they make better decisions easier to reach."*
